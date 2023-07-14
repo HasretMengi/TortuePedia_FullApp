@@ -13,3 +13,5 @@ Commentaires sur les fonctionnalités:
 
 Pour se connecter a Atlas, jai dû massurer que mon user avait le BUILT IN ROLE d'admin, sinon le site etait non fonctionnel. À voir de votre coté. 
 
+LES DOSSIER NODE MODULES SONT SUPPRIMER DANS CLIENT ET SERVEUR. 
+
