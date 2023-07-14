@@ -10,3 +10,6 @@ Commentaires sur les fonctionnalités:
 -About affiche le nom et email des users. 
 -S'il n`y a pas de connexion et que l'url est valide exemple /home /about, ¸ça renvois la page login, url invalide = page 404
 -Les routes sont tous fonctionnel. 
+
+Pour se connecter a Atlas, jai dû massurer que mon user avait le BUILT IN ROLE d'admin, sinon le site etait non fonctionnel. À voir de votre coté. 
+
